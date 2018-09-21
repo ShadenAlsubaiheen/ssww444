@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463553198856",
+    "firebase_url": "https://wesalapp-a0c0d.firebaseio.com",
+    "project_id": "wesalapp-a0c0d",
+    "storage_bucket": "wesalapp-a0c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463553198856:android:7da307289b886a87",
+        "android_client_info": {
+          "package_name": "com.software444.ssww444"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463553198856-7l2pk5knuad99urkjpu5iegmh9oh6p0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.software444.ssww444",
+            "certificate_hash": "799375d7dfd729be5c148bf871916b1abd23c122"
+          }
+        },
+        {
+          "client_id": "463553198856-0nlt774thoonnephj51jk23v0q7g5rkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYgRwdSNsGb2eocj2A8E3d4Wc11KejAPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463553198856-0nlt774thoonnephj51jk23v0q7g5rkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
